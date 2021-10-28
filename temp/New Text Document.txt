@@ -1,0 +1,8 @@
+contactor name:
+{{name}}
+email:
+{{email}}
+phone:
+{{phone}}
+msg:
+{{msg}}
